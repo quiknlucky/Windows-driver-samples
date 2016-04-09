@@ -25,8 +25,8 @@ Revision History:
 
 --*/
 
-//#include <ntddk.h>
-//#include <sdport.h>
+#include <ntddk.h>
+#include <sdport.h>
 #include "sdhc.h"
 
 #ifdef ALLOC_PRAGMA
